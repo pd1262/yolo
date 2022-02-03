@@ -1,0 +1,4 @@
+/model/coco.names
+/model/yolov3.cfg
+/model/yolov3.weights
+/output/
